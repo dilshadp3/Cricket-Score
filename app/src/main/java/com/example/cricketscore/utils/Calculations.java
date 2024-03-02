@@ -26,7 +26,6 @@ public class Calculations {
         String roundedNumber = decimalFormat.format(number);
 
         // Displaying the rounded number
-        Log.d("RoundedNumber", roundedNumber);
         return roundedNumber;
     }
 }
