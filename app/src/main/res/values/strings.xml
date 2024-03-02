@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket Score</string>
+
+
+    <string name="btn_label1"> Fragment One </string>
+    <string name="btn_label2"> Fragment Two </string>
+</resources>
